@@ -1,5 +1,7 @@
 # Closet
 
+[![Build Status](https://travis-ci.org/s-vizzari/closet.png)](https://travis-ci.org/s-vizzari/closet.png)
+
 Wrapper for HTML5 localStorage
 
 ## Functionality

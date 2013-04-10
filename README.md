@@ -1,4 +1,4 @@
-Closet
+# Closet
 
 Wrapper for HTML5 localStorage
 

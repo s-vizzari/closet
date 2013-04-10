@@ -1,0 +1,17 @@
+{
+  "name": "Closet",
+  "description": "A HTML5 localStorage wrapper",
+  "version": "1.0.0",
+  "main": "lib/closet.js",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-jasmine": "~0.4.2",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-mkdir": "~0.1.1",
+    "grunt-clientside": "~0.2.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
